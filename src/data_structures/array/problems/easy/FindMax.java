@@ -1,4 +1,4 @@
-package data_structures.array.problems;
+package data_structures.array.problems.easy;
 
 public class FindMax {
     public static void main(String[] args) {
@@ -6,6 +6,10 @@ public class FindMax {
         System.out.println("Max Element : " + findMax(input));
     }
 
+    /** O(n)/O(1)
+     * @param input
+     * @return
+     */
     private static int findMax(int[] input) {
         int max = input[0]; //Assume 1st element is the maximum
         //Traverse the array to find the maximum
