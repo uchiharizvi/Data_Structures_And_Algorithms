@@ -1,4 +1,4 @@
-package data_structures.array.problems.easy;
+package data_structures.array.problems.easy.largest_element;
 
 public class FindMax {
     public static void main(String[] args) {

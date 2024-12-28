@@ -1,4 +1,4 @@
-package data_structures.array.problems.easy;
+package data_structures.array.problems.easy.reverse;
 // None:None (compile-time directive and does not impact runtime/does not consume memory at runtime.)
 
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.Arrays;
  * Total Time : O(n) Linear Time - O(1)+O(n)+O(n)+O(n) = O(n)
  * Total Space : O(n) Linear Space - O(n)
  */
-public class ReverseArrayImproved {
+public class ReverseArray {
     public static void main(String[] args) { //Entry Point - No direct complexity associated
         int[] arr = {1, 2, 3, 4, 5};
         reverse(arr);
