@@ -1,4 +1,4 @@
-package data_structures.array.problems.easy.second_largest_element;
+package problems.array.second_largest_element;
 
 public class SecondLargestElement_LinearTime_ConstantSpace_withoutStreams {
     /**

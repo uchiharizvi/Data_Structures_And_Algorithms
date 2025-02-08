@@ -1,4 +1,4 @@
-package data_structures.stack.examples.array;
+package ds.stack.implementation.array;
 
 public class Stack {
     private int maxSize;

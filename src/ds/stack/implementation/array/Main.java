@@ -1,4 +1,4 @@
-package data_structures.stack.examples.array;
+package ds.stack.implementation.array;
 
 public class Main {
     public static void main(String[] args) {

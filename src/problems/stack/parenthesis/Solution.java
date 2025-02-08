@@ -1,4 +1,4 @@
-package data_structures.stack.problems.parenthesis.readme;
+package problems.stack.parenthesis;
 
 import java.util.Scanner;
 import java.util.Stack;

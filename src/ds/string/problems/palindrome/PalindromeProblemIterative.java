@@ -1,4 +1,4 @@
-package data_structures.string.problems.palindrome;
+package ds.string.problems.palindrome;
 
 /**
  * Linear Time

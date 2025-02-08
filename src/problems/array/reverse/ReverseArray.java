@@ -1,4 +1,4 @@
-package data_structures.array.problems.easy.reverse;
+package problems.array.reverse;
 // None:None (compile-time directive and does not impact runtime/does not consume memory at runtime.)
 
 import java.util.Arrays;
