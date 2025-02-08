@@ -1,4 +1,4 @@
-package ds.string.problems.palindrome;
+package problems.string.palindrome;
 
 import java.util.stream.IntStream;
 
