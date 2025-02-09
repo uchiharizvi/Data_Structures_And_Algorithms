@@ -1,6 +1,6 @@
-package ds.tree;
+package ds.tree.binarySearchTree.insertion;
 
-public class Node {
+class Node {
     int data;
     Node left, right;
 
