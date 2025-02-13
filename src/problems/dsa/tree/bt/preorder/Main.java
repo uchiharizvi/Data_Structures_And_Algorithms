@@ -1,7 +1,12 @@
-package ds.tree;
+package problems.dsa.tree.bt.preorder;
 
-public class TreeUtils {
-    public static Node buildTree() {
+public class Main {
+    public static void main(String[] args) {
+        BinaryTree binaryTree = new BinaryTree(buildTree());
+        binaryTree.preOrder();
+    }
+
+    private static Node buildTree() {
         Node node = new Node(1);
         node.left = new Node(2);
         node.left.left = new Node(4);
