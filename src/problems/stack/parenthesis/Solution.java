@@ -1,4 +1,4 @@
-package problems.stacks.parenthesis;
+package problems.stack.parenthesis;
 
 import java.util.Scanner;
 import java.util.Stack;
